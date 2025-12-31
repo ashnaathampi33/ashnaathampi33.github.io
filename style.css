@@ -60,6 +60,15 @@ body {
   color: #38bdf8;
 }
 
+.social-link {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.social-link:hover {
+  text-decoration: underline;
+}
 .hero button {
   margin-top: 1.5rem;
   padding: 0.8rem 1.8rem;
